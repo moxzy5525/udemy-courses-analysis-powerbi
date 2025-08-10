@@ -14,7 +14,7 @@ The dashboard answers questions such as:
 ---
 
 ## 📂 Dataset
-- **File:** [`udemy_courses.xlsx`](data/udemy_courses.xlsx)  
+- **File:** [`udemy_courses.xlsx`](udemy_courses.xlsx)  
 - **Source:** Udemy Courses dataset (Excel format)
 
 ---
