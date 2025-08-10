@@ -69,7 +69,7 @@ Full details can be found in [`docs/data_preparation.md`](docs/data_preparation.
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/udemy-courses-analysis.git
+   git clone https://github.com/moxzy5525/udemy-courses-analysis.git
    ```
 2. Open `dashboard/udemy_courses_analysis.pbix` in **Power BI Desktop**.
 3. Connect to `data/udemy_courses.xlsx` if prompted.
