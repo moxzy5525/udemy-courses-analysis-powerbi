@@ -20,7 +20,7 @@ The dashboard answers questions such as:
 ---
 
 ## 🛠 Data Preparation
-Full details can be found in [`docs/data_preparation.md`](docs/data_preparation.md).
+Full details can be found in [`docs/data_preparation.md`](data_preparation.md).
 
 **Summary of Cleaning Steps:**
 - Removed duplicates
@@ -52,10 +52,10 @@ Full details can be found in [`docs/data_preparation.md`](docs/data_preparation.
 ## 🖼 Screenshots
 
 **Dashboard Page 1 – Overview**  
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 **Dashboard Page 2 – Revenue Insights**  
-![Revenue Insights](images/revenue_insights.png)
+![Revenue Insights](revenue_insights.png)
 
 ---
 
